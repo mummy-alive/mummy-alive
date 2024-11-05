@@ -26,6 +26,6 @@
 ### App
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
-
-[![Mummyee's GitHub stats](https://github-readme-stats.vercel.app/api?username=mummyee)](https://github.com/anuraghazra/github-readme-stats)
-
+<div align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mummy-alive&theme=algolia&layout=donut)](https://github.com/anuraghazra/github-readme-stats) 
+</div>
