@@ -29,3 +29,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mummy-alive&theme=algolia&layout=donut" alt="Top Langs">
   </a>
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <img alt="github-snake" src="snake.yml" />
+</picture>
