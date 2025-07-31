@@ -31,6 +31,6 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <img alt="github-snake" src="snake.yml" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mummy-alive/mummy-alive/output/github-snake-dark.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
 </picture>
