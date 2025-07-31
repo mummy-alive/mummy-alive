@@ -3,6 +3,10 @@ name: Generate Snake
 on:
   schedule:
     - cron: '0 */6 * * *' 
+  workflow_dispatch:        # 👉 Actions 탭에서 Run 버튼 나타남
+  push:                     # 👉 snake.yml 수정·커밋하면 바로 실행
+    paths:
+      - '.github/workflows/snake.yml'
     
 jobs:
   build:
